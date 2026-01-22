@@ -1,2 +1,2 @@
-configs.build/* export-ignore
-configs.release/* export-ignore
+configs.build/*.config export-ignore
+configs.release/*.config export-ignore
